@@ -54745,7 +54745,7 @@ $C:"$3",
 $R:3,
 $S:354}
 F.h_.prototype={
-J:function(a,b){var s,r=null,q=$.jS(),p=q.c,o=R.ql(!1,!0,U.a7o($.wQ().y,r,32,32),r,!0,r,r,r,r,r,r,r,r,r,new F.XI(),r,r,r),n=t.D,m=H.a([R.ql(!1,!0,T.lY(L.i5("Portfolio",r,B.z3(14,C.y),r),r,r),r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),C.r_,R.ql(!1,!0,T.lY(L.i5("Pengalaman",r,B.z3(14,C.y),r),r,r),r,!0,r,r,r,r,r,r,r,r,r,new F.XJ(),r,r,r),C.r_,R.ql(!1,!0,T.lY(L.i5("Pendidikan",r,B.z3(14,C.y),r),r,r),r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),C.r_],n),l=T.rY(C.JS,C.df,C.bp),k=Z.a3T(q.c,2)
+J:function(a,b){var s,r=null,q=$.jS(),p=q.c,o=R.ql(!1,!0,U.a7o($.wQ().y,r,32,32),r,!0,r,r,r,r,r,r,r,r,r,new F.XI(),r,r,r),n=t.D,m=H.a([R.ql(!1,!0,T.lY(L.i5("Portfolio123",r,B.z3(14,C.y),r),r,r),r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),C.r_,R.ql(!1,!0,T.lY(L.i5("Pengalaman",r,B.z3(14,C.y),r),r,r),r,!0,r,r,r,r,r,r,r,r,r,new F.XJ(),r,r,r),C.r_,R.ql(!1,!0,T.lY(L.i5("Pendidikan",r,B.z3(14,C.y),r),r,r),r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),C.r_],n),l=T.rY(C.JS,C.df,C.bp),k=Z.a3T(q.c,2)
 $.a67()
 s=b.Y(t.l).f
 s=T.i_(T.rY(C.MK,C.df,C.bp),s.a.b/2,r)
